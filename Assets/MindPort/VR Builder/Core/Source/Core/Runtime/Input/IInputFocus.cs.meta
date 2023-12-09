@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: f2f30850a153414cba475f1ae298c941
+timeCreated: 1618918882
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Input/IInputFocus.cs
+  uploadId: 623206

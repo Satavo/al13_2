@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2fcbdfff294977147a61a9e36083e235
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Resources/Confetti/Prefabs/MindPortConfettiMachine.prefab
+  uploadId: 623206

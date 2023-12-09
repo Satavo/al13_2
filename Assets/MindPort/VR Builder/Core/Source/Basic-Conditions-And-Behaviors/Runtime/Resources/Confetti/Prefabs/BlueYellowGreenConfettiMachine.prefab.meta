@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e7ca6439dada2284fb38b292dd9fdc08
+timeCreated: 1519140940
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Resources/Confetti/Prefabs/BlueYellowGreenConfettiMachine.prefab
+  uploadId: 623206

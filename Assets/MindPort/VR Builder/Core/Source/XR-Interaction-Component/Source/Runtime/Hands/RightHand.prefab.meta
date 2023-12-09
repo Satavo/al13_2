@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bde71cb35b3a69e478307d53a56242c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Hands/RightHand.prefab
+  uploadId: 623206

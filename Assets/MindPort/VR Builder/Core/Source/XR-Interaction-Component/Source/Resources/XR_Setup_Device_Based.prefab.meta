@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6009b435b2dba3240b74f29999f3e3e0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Resources/XR_Setup_Device_Based.prefab
+  uploadId: 623206

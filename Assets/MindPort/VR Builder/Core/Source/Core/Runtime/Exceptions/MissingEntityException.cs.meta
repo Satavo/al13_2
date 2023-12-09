@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 371f5b25df4054e4e80af37d5594a086
+timeCreated: 1527266909
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/MissingEntityException.cs
+  uploadId: 623206

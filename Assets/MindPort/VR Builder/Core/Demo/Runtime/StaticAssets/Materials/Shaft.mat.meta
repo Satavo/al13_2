@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8b6d3e5d9c9c89140903cd9b1032b869
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/StaticAssets/Materials/Shaft.mat
+  uploadId: 623206

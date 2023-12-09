@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a88dc6688ae9dae4f8d6be1bcb48c78e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/StaticAssets/Materials/Skybox.mat
+  uploadId: 623206

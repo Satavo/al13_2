@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 42a7f63f1de938c4aacfe96b96e26d88
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/TextToSpeech-Component/Runtime/VRBuilder.TextToSpeech.asmdef
+  uploadId: 623206

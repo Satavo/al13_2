@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c6c888b079480654fbf337e7fe50b405
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Resources/SnapZones/SnapZoneValidationMaterial.mat
+  uploadId: 623206

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5984489a6c8753743953c8d64d3265fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Interaction-Component/Runtime/Resources/Materials/AnchorMaterialSRP.mat
+  uploadId: 623206

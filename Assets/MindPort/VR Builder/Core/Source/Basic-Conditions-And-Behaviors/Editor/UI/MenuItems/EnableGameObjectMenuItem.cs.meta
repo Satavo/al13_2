@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7b388839dcb36574f9b41c5ecda2b7f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Editor/UI/MenuItems/EnableGameObjectMenuItem.cs
+  uploadId: 623206

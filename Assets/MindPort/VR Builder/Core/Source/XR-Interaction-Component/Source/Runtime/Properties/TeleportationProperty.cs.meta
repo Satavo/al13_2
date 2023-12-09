@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 584ad12357614f4fbb5460fdf72e8cc6
+timeCreated: 1614697337
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Properties/TeleportationProperty.cs
+  uploadId: 623206

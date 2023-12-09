@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37c82b08dd6b47541bda003607ae9073
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Interaction-Component/Runtime/Resources/USER_DUMMY.prefab
+  uploadId: 623206

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb001adfa2edbb64887889d74d6fe41e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/StaticAssets/Materials/Ball.physicMaterial
+  uploadId: 623206

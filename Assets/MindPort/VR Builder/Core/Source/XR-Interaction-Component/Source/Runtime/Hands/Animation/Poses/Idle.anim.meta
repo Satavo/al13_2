@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc640e95cf6d7d644816f82c5046ee39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Hands/Animation/Poses/Idle.anim
+  uploadId: 623206

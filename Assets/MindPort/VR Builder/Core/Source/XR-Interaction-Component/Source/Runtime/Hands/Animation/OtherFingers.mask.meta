@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfbe5d1bc9766384e85e3f035ad1ecc5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Hands/Animation/OtherFingers.mask
+  uploadId: 623206

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: c7e11a828d34460bad703341a6aabb1e
+timeCreated: 1569594654
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/ParallelConfigurator.cs
+  uploadId: 623206

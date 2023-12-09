@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 871cf8bed45c27f46a347df0553bdcec
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/StaticAssets/Prefabs/Laser
+    Sword.prefab
+  uploadId: 623206

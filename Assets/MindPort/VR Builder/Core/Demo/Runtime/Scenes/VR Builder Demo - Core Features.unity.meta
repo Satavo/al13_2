@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 802a144452e31934f9dadd74707761b8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/VR Builder Demo
+    - Core Features.unity
+  uploadId: 623206

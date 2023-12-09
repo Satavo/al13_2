@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f17d5d554bc9b742b9bf585b813330c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Hands/Animation/HandAnimatorController.controller
+  uploadId: 623206

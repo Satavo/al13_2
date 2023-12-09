@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: cc3e244a0b1b4cb7bd2cc39448365c01
+timeCreated: 1594821320
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Editor/SnapZone/SnapZoneSettings.cs
+  uploadId: 623206

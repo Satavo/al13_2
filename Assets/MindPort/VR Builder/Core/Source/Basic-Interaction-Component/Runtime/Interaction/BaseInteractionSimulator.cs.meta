@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 531975ba84be480988d810e167c747e1
+timeCreated: 1616581416
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Interaction-Component/Runtime/Interaction/BaseInteractionSimulator.cs
+  uploadId: 623206

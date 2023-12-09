@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: bc33416510d14cb09adc7e0b0000de35
+timeCreated: 1545757278
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UI/Drawers/IntDrawer.cs
+  uploadId: 623206

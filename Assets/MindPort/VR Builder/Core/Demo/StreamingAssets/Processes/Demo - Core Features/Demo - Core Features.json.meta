@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8a9e39c8c1714ac47b88bcaded37391d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/StreamingAssets/Processes/Demo
+    - Core Features/Demo - Core Features.json
+  uploadId: 623206

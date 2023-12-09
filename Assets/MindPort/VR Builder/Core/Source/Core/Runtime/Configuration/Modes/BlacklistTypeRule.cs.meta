@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 33b77229a99c4591a76f5913c8dd6154
+timeCreated: 1554889170
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Configuration/Modes/BlacklistTypeRule.cs
+  uploadId: 623206

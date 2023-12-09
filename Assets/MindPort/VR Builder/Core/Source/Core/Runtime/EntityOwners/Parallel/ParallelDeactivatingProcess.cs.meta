@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: fbca46ab8202491f848d6afdfc3f8e7c
+timeCreated: 1584961200
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/EntityOwners/Parallel/ParallelDeactivatingProcess.cs
+  uploadId: 623206

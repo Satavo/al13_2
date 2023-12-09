@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 9a26266d03dc47c2b07f035e48d6b713
+timeCreated: 1567761268
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/EmptyProcess.cs
+  uploadId: 623206

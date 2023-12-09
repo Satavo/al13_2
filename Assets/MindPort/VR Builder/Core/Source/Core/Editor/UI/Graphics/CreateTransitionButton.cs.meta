@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 0a386bf92bcc4273955c70eacf5f6a69
+timeCreated: 1563465890
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UI/Graphics/CreateTransitionButton.cs
+  uploadId: 623206

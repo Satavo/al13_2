@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 5d8d4399e5ed4949b404d88798cd0461
+timeCreated: 1541605483
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UndoRedo/CallbackCommand.cs
+  uploadId: 623206

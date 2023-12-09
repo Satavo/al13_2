@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 523f3ae4a94d431bbe657b9b4aba9352
+timeCreated: 1553099595
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Exceptions/MissingModeException.cs
+  uploadId: 623206

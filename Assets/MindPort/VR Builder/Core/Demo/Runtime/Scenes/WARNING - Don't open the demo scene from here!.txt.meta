@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c99ebb886cccf2d45951d5af0ad5072c
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/WARNING - Don't
+    open the demo scene from here!.txt
+  uploadId: 623206

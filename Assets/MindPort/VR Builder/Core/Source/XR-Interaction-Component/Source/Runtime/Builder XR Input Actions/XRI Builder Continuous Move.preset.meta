@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91f9da00cfdac5d49955df2d2d820b9c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Builder
+    XR Input Actions/XRI Builder Continuous Move.preset
+  uploadId: 623206

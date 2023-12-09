@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 791307765dde478cab2e4bf4a98dc1e9
+timeCreated: 1593764371
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/RestrictiveEnvironment/NonLockingStepHandling.cs
+  uploadId: 623206

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d011830f70439a418523cf2d2118b25
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Demo/Runtime/StaticAssets/Materials/LightSaber.mat
+  uploadId: 623206

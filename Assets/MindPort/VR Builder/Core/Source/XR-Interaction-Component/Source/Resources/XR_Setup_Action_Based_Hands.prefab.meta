@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 48c5e3bd3e1b105488e36d4d0d00cdc3
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Resources/XR_Setup_Action_Based_Hands.prefab
+  uploadId: 623206

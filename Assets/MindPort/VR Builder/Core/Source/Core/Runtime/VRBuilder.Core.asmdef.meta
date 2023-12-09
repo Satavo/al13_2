@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c8561f9de838ac04d8feeda695bc572d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/VRBuilder.Core.asmdef
+  uploadId: 623206

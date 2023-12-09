@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f9aec672c63502489929005faa193f5
+timeCreated: 1526980928
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/TextToSpeech-Component/Extensions/Plugins/NAudio/NAudio-License.txt
+  uploadId: 623206

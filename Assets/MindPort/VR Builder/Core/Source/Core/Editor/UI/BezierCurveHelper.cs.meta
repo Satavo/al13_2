@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 59179417350544159c1c74bb33d802e6
+timeCreated: 1564491726
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UI/BezierCurveHelper.cs
+  uploadId: 623206

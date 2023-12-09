@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 17b9bb986c3f4c7396e38a99c68e33b5
+timeCreated: 1585074831
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UI/StepInspector/Menu/MenuSeparator.cs
+  uploadId: 623206

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 854fc6d5909c401cb97f8f574aba1258
+timeCreated: 1539178927
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Serialization/NewtonsoftJsonSerializer/NewtonsoftJsonProcessSerializer.cs
+  uploadId: 623206

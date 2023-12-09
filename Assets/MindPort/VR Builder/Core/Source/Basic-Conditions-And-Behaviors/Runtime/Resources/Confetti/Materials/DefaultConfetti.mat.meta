@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ccdde8e9848686b4fa21b63e65d901eb
+timeCreated: 1519139215
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Conditions-And-Behaviors/Runtime/Resources/Confetti/Materials/DefaultConfetti.mat
+  uploadId: 623206

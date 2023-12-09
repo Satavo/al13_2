@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d86e1a0c0f7d454fb4c7a32b119df15
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/Behaviors/IBackgroundBehaviorData.cs
+  uploadId: 623206

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6c97eba138bb6c64697ea7ca63a27ad7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Interaction-Component/Runtime/Static
+    Assets/Materials/Opaque-Queue-Line.mat
+  uploadId: 623206

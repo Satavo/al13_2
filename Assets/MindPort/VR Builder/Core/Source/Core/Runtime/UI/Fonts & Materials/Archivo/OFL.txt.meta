@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c0fa277605997ff48a70c218646c9eac
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/UI/Fonts & Materials/Archivo/OFL.txt
+  uploadId: 623206

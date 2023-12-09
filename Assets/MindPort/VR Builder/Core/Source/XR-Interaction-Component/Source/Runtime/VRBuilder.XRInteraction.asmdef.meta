@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5bac2de3e0a43884ba7b23da0c8de186
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/VRBuilder.XRInteraction.asmdef
+  uploadId: 623206

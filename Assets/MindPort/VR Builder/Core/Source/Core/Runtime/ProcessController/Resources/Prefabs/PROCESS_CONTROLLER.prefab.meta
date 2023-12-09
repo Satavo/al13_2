@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 85f55f6aecb286d44b4b12fb99963570
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ProcessController/Resources/Prefabs/PROCESS_CONTROLLER.prefab
+  uploadId: 623206

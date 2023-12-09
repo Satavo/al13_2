@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ffd8268f7307a0c48a067dad4a8fe060
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Runtime/Builder
+    XR Input Actions/XRI Builder Left Controller.preset
+  uploadId: 623206

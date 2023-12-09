@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 23b77e8f50aa46b2a61f4c360290b3ce
+timeCreated: 1594817316
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/XR-Interaction-Component/Source/Editor/Properties/SnappablePropertyEditor.cs
+  uploadId: 623206

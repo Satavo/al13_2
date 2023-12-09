@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 8a6a5a49c1554514b17ed74f27e9ee75
+timeCreated: 1616665800
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Interaction-Component/Runtime/Interaction/ISnapZone.cs
+  uploadId: 623206

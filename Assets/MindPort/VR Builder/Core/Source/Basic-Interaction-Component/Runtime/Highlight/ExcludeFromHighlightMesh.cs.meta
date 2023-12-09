@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: aa485fc5f45c43f393239c5131be81a3
+timeCreated: 1619609015
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Basic-Interaction-Component/Runtime/Highlight/ExcludeFromHighlightMesh.cs
+  uploadId: 623206

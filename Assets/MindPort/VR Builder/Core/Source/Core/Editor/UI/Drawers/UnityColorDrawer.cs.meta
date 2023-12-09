@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 3725b6b51d8f4c5db724a4f1784b8c6e
+timeCreated: 1542634326
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UI/Drawers/UnityColorDrawer.cs
+  uploadId: 623206

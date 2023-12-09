@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0323b0b5f3bde9e4b9a6edf9d2cf9cb1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/UI/Fonts & Materials/Archivo/Archivo-Regular
+    SDF.asset
+  uploadId: 623206

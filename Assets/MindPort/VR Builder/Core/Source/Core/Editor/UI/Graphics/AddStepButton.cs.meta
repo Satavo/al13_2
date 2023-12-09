@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 37822f14ee8e4038b1a28a7f84099aa7
+timeCreated: 1539872936
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Editor/UI/Graphics/AddStepButton.cs
+  uploadId: 623206

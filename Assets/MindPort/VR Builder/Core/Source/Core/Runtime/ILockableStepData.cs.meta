@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: be2422a27e34f7f4eb449b59a036e7c3
+timeCreated: 1593008281
+AssetOrigin:
+  serializedVersion: 1
+  productId: 201913
+  packageName: VR Builder - Open source toolkit for VR creation
+  packageVersion: 3.3.2
+  assetPath: Assets/MindPort/VR Builder/Core/Source/Core/Runtime/ILockableStepData.cs
+  uploadId: 623206
