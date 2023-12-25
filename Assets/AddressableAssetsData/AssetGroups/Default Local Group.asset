@@ -16,7 +16,12 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fcdc95f3ead209b489c58d281982de0a
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 2bc15dc090acac843bf4255876e7fb93
+    m_Address: Assets/Prefabs/Materials/ToolTable.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c93bbc8316af93b439b9a685a7fc3a65, type: 2}
   m_SchemaSet:
