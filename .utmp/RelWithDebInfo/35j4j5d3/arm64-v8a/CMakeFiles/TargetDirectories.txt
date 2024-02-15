@@ -1,0 +1,5 @@
+G:/Cases/Al13/al13_2/.utmp/RelWithDebInfo/35j4j5d3/arm64-v8a/CMakeFiles/edit_cache.dir
+G:/Cases/Al13/al13_2/.utmp/RelWithDebInfo/35j4j5d3/arm64-v8a/CMakeFiles/rebuild_cache.dir
+G:/Cases/Al13/al13_2/.utmp/RelWithDebInfo/35j4j5d3/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+G:/Cases/Al13/al13_2/.utmp/RelWithDebInfo/35j4j5d3/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+G:/Cases/Al13/al13_2/.utmp/RelWithDebInfo/35j4j5d3/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

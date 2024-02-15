@@ -822,7 +822,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: d44869f3-1f8b-435f-8ab5-2bb20298a1a4
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -918,7 +918,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 7d141818-1079-457f-8d94-a889b48ab5cd
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -1095,8 +1095,8 @@ Transform:
   m_GameObject: {fileID: 94868414}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.58, y: 0.119, z: 3}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 11.52, y: 0.119, z: 3}
+  m_LocalScale: {x: 0.46967, y: 0.46967, z: 0.46967}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8633444328560199771}
@@ -1407,7 +1407,7 @@ Transform:
   m_GameObject: {fileID: 188391392}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.948, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1764,7 +1764,7 @@ Transform:
   m_GameObject: {fileID: 309450826}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.956, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2107,7 +2107,7 @@ Transform:
   m_GameObject: {fileID: 364752775}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 11.352, y: 1.336, z: 1.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2532,7 +2532,7 @@ Transform:
   m_GameObject: {fileID: 405591835}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.955, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7699,7 +7699,7 @@ Transform:
   m_GameObject: {fileID: 1281815176}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -0.035, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8055,7 +8055,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1348384525}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Room
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8071,8 +8071,8 @@ Transform:
   m_GameObject: {fileID: 1348384524}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.1, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 6.4, y: 0.1, z: 1.61}
+  m_LocalScale: {x: 0.46967, y: 0.46967, z: 0.46967}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 543450652810928866}
@@ -8213,7 +8213,7 @@ Transform:
   m_GameObject: {fileID: 1397126775}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.752, z: 0.056}
+  m_LocalPosition: {x: 0.026, y: 0.87, z: 0.099}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8343,8 +8343,8 @@ Transform:
   m_GameObject: {fileID: 1463774062}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.49348447, z: -0, w: 0.8697546}
-  m_LocalPosition: {x: -2.081, y: 0.787, z: -0.476}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 5.912, y: 0.663, z: 1.447}
+  m_LocalScale: {x: 1, y: 0.83945906, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 2059499579}
@@ -8692,7 +8692,7 @@ Transform:
   m_GameObject: {fileID: 1637712407}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 11.352, y: 1.336, z: 1.75}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10431,7 +10431,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 81b18a48-082d-4a68-a53e-e81621a5b480
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -10527,7 +10527,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: d2a5a086-754a-431d-b8de-c941a53c0c67
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -10560,10 +10560,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: e62d348e-8e1c-44ba-912b-06c7a9fb90a9
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -11115,7 +11115,7 @@ Transform:
   m_GameObject: {fileID: 2059499578}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.214, z: 0}
+  m_LocalPosition: {x: 0, y: 0.337, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11134,7 +11134,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58a9a7b4435e36f4fbc7000edd687974, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveScheme: 0
+  moveScheme: 1
   turnStyle: 0
   moveForwardSource: 0
   actionAssets:
@@ -11163,7 +11163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_LocomotionProvider: {fileID: 2059499587}
-  m_MinHeight: 0
+  m_MinHeight: 10
   m_MaxHeight: Infinity
 --- !u!143 &2059499582
 CharacterController:
@@ -11204,10 +11204,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 2059499586}
-  m_MoveSpeed: 1
+  m_MoveSpeed: 3
   m_EnableStrafe: 1
   m_EnableFly: 0
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_GravityApplicationMode: 0
   m_ForwardSource: {fileID: 1281815181}
   m_LeftHandMoveAction:
@@ -11298,7 +11298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 03a5df2202a8b96488c744be3bd0c33e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Timeout: 10
+  m_Timeout: 0
   m_XROrigin: {fileID: 2059499588}
 --- !u!114 &2059499587
 MonoBehaviour:
@@ -11357,7 +11357,7 @@ MonoBehaviour:
   m_Camera: {fileID: 1281815177}
   m_OriginBaseGameObject: {fileID: 2059499578}
   m_CameraFloorOffsetObject: {fileID: 1397126775}
-  m_RequestedTrackingOriginMode: 2
+  m_RequestedTrackingOriginMode: 1
   m_CameraYOffset: 1.36144
 --- !u!1 &2097657252
 GameObject:
@@ -16852,8 +16852,8 @@ Transform:
   m_GameObject: {fileID: 7725415143741437445}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0.73, y: 0, z: 2.82}
-  m_LocalScale: {x: 0.42015, y: 0.42015, z: 0.42015}
+  m_LocalPosition: {x: 1.14, y: 0, z: 2.54}
+  m_LocalScale: {x: 0.37187478, y: 0.37187478, z: 0.37187478}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6783122751792284014}
