@@ -8663,7 +8663,7 @@ Transform:
   m_GameObject: {fileID: 1397126775}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: 0.22406027, z: -0, w: 0.9745753}
-  m_LocalPosition: {x: 0.028, y: 1.128, z: 0.046}
+  m_LocalPosition: {x: 0.028, y: 0.608, z: 0.046}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -10081,7 +10081,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5562819036174228372, guid: 871cf8bed45c27f46a347df0553bdcec, type: 3}
       propertyPath: m_Layer
-      value: 11
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6246853691175774326, guid: 871cf8bed45c27f46a347df0553bdcec, type: 3}
       propertyPath: m_IsActive
@@ -11780,7 +11780,7 @@ Transform:
   m_GameObject: {fileID: 2059499578}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.13032958, y: -0.435, z: -0.09522012}
+  m_LocalPosition: {x: -0.13032958, y: -0.324, z: -0.09522012}
   m_LocalScale: {x: 0.91873586, y: 0.91873586, z: 0.91873586}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11834,7 +11834,7 @@ CharacterController:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Height: 1.3
+  m_Height: 1.36144
   m_Radius: 0.1
   m_SlopeLimit: 45
   m_StepOffset: 0.3
@@ -18550,7 +18550,7 @@ GameObject:
   - component: {fileID: 7810312309739026812}
   - component: {fileID: 7810312309739026816}
   - component: {fileID: 7810312309739026817}
-  m_Layer: 11
+  m_Layer: 0
   m_Name: Bar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
