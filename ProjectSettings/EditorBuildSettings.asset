@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/AL13.unity
     guid: e22272627a6354940bec892c3fdd2ad4
-  - enabled: 1
+  - enabled: 0
     path: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/VR Builder Demo - Core
       Features.unity
     guid: 802a144452e31934f9dadd74707761b8
