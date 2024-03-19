@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/VR Builder Demo - Core
       Features.unity
     guid: 802a144452e31934f9dadd74707761b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 5cdcf0c09f5e2f945a2f9399aef9e5df
   m_configObjects:
