@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 88379af3f0e71b340a5ed2cbc37b10ed
+  - enabled: 1
     path: Assets/Scenes/AL13.unity
     guid: e22272627a6354940bec892c3fdd2ad4
   - enabled: 0
     path: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/VR Builder Demo - Core
       Features.unity
     guid: 802a144452e31934f9dadd74707761b8
-  - enabled: 0
-    path: Assets/Scenes/Menu.unity
-    guid: 5cdcf0c09f5e2f945a2f9399aef9e5df
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7f03582a72c084a45945369d78bc9c54, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 1ffef8fc54327ff46b9146b495addc23, type: 2}
