@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.100727625, g: 0.28712863, b: 0.534794, a: 1}
+  m_IndirectSpecularColor: {r: 0.10112651, g: 0.28796214, b: 0.5361405, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -435,8 +435,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -830, y: 430}
-  m_SizeDelta: {x: 56, y: 56}
+  m_AnchoredPosition: {x: -886, y: 450}
+  m_SizeDelta: {x: 69, y: 69}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &384953738
 MonoBehaviour:
@@ -526,7 +526,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: eb566ec9b50185c43b0ea0073c6d041a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a9fe4da2b4d01be41be6c727a94fbef7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1371,6 +1371,7 @@ GameObject:
   - component: {fileID: 1255474634}
   - component: {fileID: 1255474633}
   - component: {fileID: 1255474632}
+  - component: {fileID: 1255474635}
   m_Layer: 5
   m_Name: Exit Btn
   m_TagString: Untagged
@@ -1440,7 +1441,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1255474633}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1255474635}
+        m_TargetAssemblyTypeName: ExitGame, Assembly-CSharp
+        m_MethodName: Exit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1255474633
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1479,6 +1492,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1255474630}
   m_CullTransparentMesh: 1
+--- !u!114 &1255474635
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1255474630}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcab0d7671b8dab4e877f272b571d567, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1304118294
 PrefabInstance:
   m_ObjectHideFlags: 0
