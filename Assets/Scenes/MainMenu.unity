@@ -3201,7 +3201,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: b2c3d8b3-d7ef-41e3-baa1-96a610cc6177
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3297,7 +3297,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 8304ed11-78b1-4d93-9d89-1a95b1973b01
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -3330,10 +3330,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: add61089-b278-416d-a28e-6d41fdb660b8
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -4702,7 +4702,7 @@ MonoBehaviour:
       m_Name: Is Tracked
       m_Type: 1
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 87106b1f-91be-45a5-814d-8383a3ac77c5
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -4798,7 +4798,7 @@ MonoBehaviour:
       m_Name: UI Scroll
       m_Type: 0
       m_ExpectedControlType: Vector2
-      m_Id: 
+      m_Id: 3b34c723-ed9b-4bb2-affd-3a25ef650335
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -4831,10 +4831,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: e42bd409-de87-4ada-a92a-31d2ab235f12
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
@@ -7501,7 +7501,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1906794720
 MonoBehaviour:
   m_ObjectHideFlags: 0
