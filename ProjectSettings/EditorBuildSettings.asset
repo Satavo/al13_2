@@ -11,10 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AL13.unity
     guid: e22272627a6354940bec892c3fdd2ad4
-  - enabled: 0
-    path: Assets/MindPort/VR Builder/Core/Demo/Runtime/Scenes/VR Builder Demo - Core
-      Features.unity
-    guid: 802a144452e31934f9dadd74707761b8
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7f03582a72c084a45945369d78bc9c54, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: 1ffef8fc54327ff46b9146b495addc23, type: 2}
