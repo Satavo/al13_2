@@ -1,39 +1,22 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneTransitionManager : MonoBehaviour
 {
     public FadeScreen fadeScreen;
-    public Camera mainCamera;
-    public Camera fadeCamera;
 
-    private void Start()
+    public void GoToScene(int sceneIndex)
     {
-        fadeScreen.SetFadeCamera(fadeCamera);
+        StartCoroutine(GoToSceneRoutine(sceneIndex));
     }
-
-    public void SwitchCameraWithFade(Camera newCamera)
+    IEnumerator GoToSceneRoutine(int sceneIndex)
     {
-        StartCoroutine(SwitchCameraWithFadeRoutine(newCamera));
-    }
+        fadeScreen.FadeOut();
+        yield return new WaitForSeconds(fadeScreen.fadeDuration);
 
-    IEnumerator SwitchCameraWithFadeRoutine(Camera newCamera)
-    {
-        fadeScreen.FadeOut(); // Запускаем затемнение
-
-        yield return new WaitForSeconds(fadeScreen.fadeDuration); // Ждем завершения затемнения
-
-        mainCamera.gameObject.SetActive(false); // Выключаем основную камеру
-
-        fadeCamera.gameObject.SetActive(false); // Выключаем второстепенную камеру
-
-
-        yield return new WaitForSeconds(1.0f); // Задержка перед включением основной камеры обратно
-
-        fadeScreen.FadeIn(); // Запускаем осветление
-
-        yield return new WaitForSeconds(fadeScreen.fadeDuration); // Ждем завершения осветления
-
-        mainCamera.gameObject.SetActive(true); // Включаем основную камеру обратно
+        //Start the new scene
+        SceneManager.LoadScene(sceneIndex);
     }
 }
