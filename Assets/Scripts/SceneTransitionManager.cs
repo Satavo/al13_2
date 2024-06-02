@@ -19,4 +19,5 @@ public class SceneTransitionManager : MonoBehaviour
         //Start the new scene
         SceneManager.LoadScene(sceneIndex);
     }
+
 }

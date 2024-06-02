@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using System.Collections; // Добавили директиву для использования пространства имен System.Collections
 
 public class FadeScreen : MonoBehaviour
 {
@@ -8,6 +7,7 @@ public class FadeScreen : MonoBehaviour
     public float fadeDuration = 2;
     public Color fadeColor;
     private Renderer rend;
+
     void Start()
     {
         rend = GetComponent<Renderer>();
@@ -33,7 +33,7 @@ public class FadeScreen : MonoBehaviour
     public IEnumerator FadeRoutine(float alphaIn, float alphaOut)
     {
         float timer = 0;
-        while(timer <= fadeDuration)
+        while (timer <= fadeDuration)
         {
             Color newColor = fadeColor;
             newColor.a = Mathf.Lerp(alphaIn, alphaOut, timer / fadeDuration);
@@ -48,4 +48,5 @@ public class FadeScreen : MonoBehaviour
         newColor2.a = alphaOut;
         rend.material.SetColor("_Color", newColor2);
     }
+    
 }
