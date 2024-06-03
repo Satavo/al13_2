@@ -2560,7 +2560,7 @@
                       "AudioData": {
                         "$id": "354",
                         "$type": "VRBuilder.TextToSpeech.Audio.TextToSpeechAudio, VRBuilder.TextToSpeech",
-                        "Text": "Welcome! I will guide you through this simulationIf something goes wrong, you can exit the simulation by touching the door handle"
+                        "Text": "Welcome! I am your voice assistant, if something goes wrong, you can exit the simulation at any time by touching the door handle"
                       },
                       "ExecutionStages": 1,
                       "Volume": 1.0,
