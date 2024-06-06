@@ -5946,7 +5946,7 @@
           "$id": "960",
           "$type": "VRBuilder.Core.StepMetadata, VRBuilder.Core",
           "Position": {
-            "x": -992.0,
+            "x": -979.0,
             "y": 1092.0
           },
           "StepType": "default",
@@ -5993,7 +5993,7 @@
                       "Target": {
                         "$id": "970",
                         "$type": "VRBuilder.Core.SceneObjects.SceneObjectReference, VRBuilder.Core",
-                        "UniqueName": "Bar_SnapZone_1"
+                        "UniqueName": "Bar_SnapZone"
                       },
                       "Metadata": null,
                       "DisableOnDeactivating": false
@@ -6145,7 +6145,7 @@
               "TabsGroup": {
                 "$id": "996",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -6753,7 +6753,7 @@
               "TabsGroup": {
                 "$id": "1107",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -9712,7 +9712,7 @@
               "TabsGroup": {
                 "$id": "1633",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -17443,7 +17443,7 @@
               "TabsGroup": {
                 "$id": "3018",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -17748,7 +17748,7 @@
                               "ReferenceProperty": {
                                 "$id": "3077",
                                 "$type": "VRBuilder.Core.SceneObjects.ScenePropertyReference`1[[VRBuilder.Core.Properties.TransformInRangeDetectorProperty, VRBuilder.Core]], VRBuilder.Core",
-                                "UniqueName": "min_SnapZone"
+                                "UniqueName": "min_SnapZone_1"
                               },
                               "Range": 0.2,
                               "RequiredTimeInside": 0.1,
@@ -18094,7 +18094,7 @@
               "TabsGroup": {
                 "$id": "3132",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 0
+                "selected": 1
               }
             }
           }
@@ -18720,7 +18720,7 @@
               "TabsGroup": {
                 "$id": "3250",
                 "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Object, mscorlib]], mscorlib",
-                "selected": 1
+                "selected": 0
               }
             }
           }
@@ -18808,7 +18808,7 @@
                               "ReferenceProperty": {
                                 "$id": "3269",
                                 "$type": "VRBuilder.Core.SceneObjects.ScenePropertyReference`1[[VRBuilder.Core.Properties.TransformInRangeDetectorProperty, VRBuilder.Core]], VRBuilder.Core",
-                                "UniqueName": "min_SnapZone"
+                                "UniqueName": "min_SnapZone_1"
                               },
                               "Range": 0.2,
                               "RequiredTimeInside": 0.1,
